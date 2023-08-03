@@ -1,0 +1,19 @@
+@font-face {
+  font-family: ' FONTSPRING DEMO - Commuters Sans';
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-bold.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-bolditalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-extrabold.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-extrabolditalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-extralight.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-extralightitalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-heavy.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-heavyitalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-italic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-light.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-lightitalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-regular.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-semibold.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-semibolditalic.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-thin.otf');
+  src: url('../src/assets/Fonts/CommuFonts/Fontspring-DEMO-commuterssans-thinitalic.otf');
+}
