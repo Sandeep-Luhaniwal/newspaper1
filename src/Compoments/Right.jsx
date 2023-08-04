@@ -71,7 +71,6 @@ const Right = () => {
             <div className='img_2010_3 pe-lg-3 ps-3 pe-1 py-3 ps-sm-0 pe-sm-0'>
                 <img src={Img_2010_3} alt="news_1" className='w-100 ' />
             </div>
-
         </>
     )
 }
